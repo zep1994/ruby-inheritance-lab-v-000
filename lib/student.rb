@@ -1,5 +1,7 @@
 class Student < User
-   def new
+  def new
  
   end
+  
+  
 end
