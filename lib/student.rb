@@ -6,10 +6,10 @@ class Student < User
   end
   
   def learn(knowledge)
-    @knowledge.push(@knowledge)
+   
   end
   
   def knowledge
-    
+    @knowledge
   end
 end
