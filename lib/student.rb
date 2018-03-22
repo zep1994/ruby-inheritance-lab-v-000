@@ -1,6 +1,6 @@
 class Student < User
-  def new
-  
+  def new(student)
+  student = Student.new
   end
   
   def learn
