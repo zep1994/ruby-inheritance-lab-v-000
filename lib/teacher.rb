@@ -4,7 +4,7 @@ class Teacher < User
 
 "Ruby framework Rails gem bundle update"
   def teach
-      r
+      
   end
   
 end
